@@ -1,0 +1,47 @@
+.box-head{
+    display: flex;
+}
+.mini-head-box{
+    display: flex;
+    border-bottom: 1px solid hsl(219, 9%, 45%);
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+.list-1{
+   list-style: none;
+   display: flex;
+   gap: 50px;
+   
+   
+
+}
+.box-head-space{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.cartimg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+
+}
+.box-2{
+    display: flex;
+    align-items: center;
+
+ 
+}
+.img-div{
+  width: 100%;
+}
+.img{
+    border-radius: 20px;
+}
+
+
+
